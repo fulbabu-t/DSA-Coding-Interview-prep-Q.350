@@ -1,4 +1,19 @@
-<<<<<<< HEAD
+# DSA-Codeing-Interviw-prep 750 DSA Sheet
+
+> Complete fulbabu 750 DSA Sheet with problem links and solutions.
+
+## 👨‍💻 Author
+
+**Fulbabu Islam**
+
+- GitHub: https://github.com/fulbabu-t
+
+
+## 🚀 About
+
+This repository contains solutions and practice tracking for the fulbabu 750 DSA Sheet. It is designed to help students and professionals prepare for coding interviews by covering all major Data Structures and Algorithms topics.
+
+
 # NeetCode 150 DSA Sheet
 
 ## Solved by Fulbabu Islam
@@ -157,20 +172,7 @@
 | 149 | Sum of Two Integers | Bit Manipulation | Medium | [Watch](https://www.youtube.com/watch?v=oQqe3N2aSd4) |
 | 150 | Reverse Integer | Bit Manipulation | Medium | [Watch](https://www.youtube.com/watch?v=fZwClQfC3qU) |
 =======
-# DSA-Codeing-Interviw-prep 750 DSA Sheet
 
-> Complete fulbabu 750 DSA Sheet with problem links and solutions.
-
-## 👨‍💻 Author
-
-**Fulbabu Islam**
-
-- GitHub: https://github.com/fulbabu-t
-
-
-## 🚀 About
-
-This repository contains solutions and practice tracking for the fulbabu 750 DSA Sheet. It is designed to help students and professionals prepare for coding interviews by covering all major Data Structures and Algorithms topics.
 
 ## 📚 Topics Covered
 
